@@ -1,0 +1,2 @@
+/Users/iongroupspvtltd/StudioProjects/snap_split/android/app/.cxx/RelWithDebInfo/31514246/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/iongroupspvtltd/StudioProjects/snap_split/android/app/.cxx/RelWithDebInfo/31514246/arm64-v8a/CMakeFiles/rebuild_cache.dir
