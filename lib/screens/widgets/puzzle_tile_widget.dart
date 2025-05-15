@@ -1,4 +1,4 @@
-// Puzzle Tile Widget
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:snap_split/models/puzzle_model.dart';

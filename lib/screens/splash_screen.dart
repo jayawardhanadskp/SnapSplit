@@ -1,4 +1,4 @@
-// Splash Screen
+
 import 'package:flutter/material.dart';
 import 'package:snap_split/main.dart';
 import 'package:snap_split/screens/home_screen.dart';

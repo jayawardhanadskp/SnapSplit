@@ -1,4 +1,4 @@
-// Puzzle Board Widget
+
 import 'package:flutter/material.dart';
 import 'package:snap_split/models/puzzle_model.dart';
 import 'package:snap_split/screens/widgets/puzzle_tile_widget.dart';

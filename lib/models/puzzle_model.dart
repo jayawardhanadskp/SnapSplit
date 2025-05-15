@@ -1,4 +1,4 @@
-// Puzzle Tile Model
+
 import 'dart:typed_data';
 
 class PuzzleTile {
