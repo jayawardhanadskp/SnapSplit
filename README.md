@@ -16,8 +16,9 @@ A beautiful Flutter app that transforms any photo into an interactive puzzle gam
 
 ## 📸 Screenshots
 
-> [Screenshots would be here]  
-*You can add images using the format: `![Alt text](path/to/image.png)`*
+![Puzzle Game Screenshot 1](assets/ss1.png)
+![Puzzle Game Screenshot 1](assets/ss2.png)
+![Puzzle Game Screenshot 1](assets/ss3.png)
 
 ---
 
